@@ -1,4 +1,4 @@
-## Hi there 👋
+#👋 Hi, I’m Akash Nath<br><br>
 # 💫 About Me:
 👋 Hi, I’m Akash Nath<br><br>🚀 Software Engineer | Data Analyst | ML Enthusiast<br><br>💡 I love blending code, data & creativity to build intelligent, real-world solutions.<br>📊 Skilled in Python, Java, SQL, Power BI & ML, with experience in predictive modeling & data visualization.<br>🧠 Worked on Decision Trees (ID3), Health Data Analysis & Track Degradation Prediction at IIT KGP & CRIS.<br>⚡ Passionate about solving complex problems and turning data into actionable insights.<br>🎯 Aspiring to grow as a data-driven software engineer creating impactful systems.
 
